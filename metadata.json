@@ -1,0 +1,5 @@
+{
+  "name": "建筑结构智库 (Structural Engineering AI)",
+  "description": "基于 Gemini 和 DeepSeek 的建筑结构概念讲解与中国建筑规范强条查询平台。提供深度的结构概念分析、工程应用案例以及最新的国家标准强制性条文检索。",
+  "requestFramePermissions": []
+}
